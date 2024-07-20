@@ -1,0 +1,41 @@
+body{
+  text-align: center;
+}
+
+img {
+  height:356px;
+  width: auto;
+}
+
+#title {
+  font-size:20px;
+}
+
+#direct {
+  font-size:14px;
+}
+
+#choices {
+  line-height: 4px;
+}
+
+.alert {
+  padding: 20px;
+  background-color: #2765ec;
+  color: white;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
